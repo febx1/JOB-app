@@ -14,3 +14,4 @@ npx create-react-native-app -t with-router
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
 - [YT LINK](https://www.youtube.com/@javascriptmastery)
+- [YT Video LINK](https://www.youtube.com/watch?v=mJ3bGvy0WAY&pp=ygUQcmVhY3QgbmF0aXZlIGFwcA%3D%3D)
